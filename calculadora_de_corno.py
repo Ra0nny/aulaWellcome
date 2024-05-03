@@ -70,3 +70,6 @@ genero = input("Digite o gênero (f para feminino, m para masculino): ").lower()
 
 # Chamar a função para adivinhar o nome a partir da primeira letra e do gênero
 adivinhar_nome_primeira_letra(letra, genero)
+
+
+#Eu podo eu consego
